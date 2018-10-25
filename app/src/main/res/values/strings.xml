@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">WELCOME!</string>
+    <string name="category_sights">Sights</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_shops">Shops</string>
+    <string name="category_dine">Dining</string>
+    <string name="dine_pike_name">Pike Place Chowder</string>
+    <string name="dine_pike_description">SEATTLE\'S AWARD-WINNING, HALL-OF-FAME CHOWDER CAFES NAMED AMERICA\'S #1 AND SEATTLE\'S BEST, SERVING 8 VARIETIES DAILY</string>
+    <string name="dine_pike_address">1530 Post Alley, Seattle, WA, 98101</string>
+    <string name="dine_pike_phone">+1 (206)267-2537</string>
+    <string name="dine_pike_hours">11:00-17:00 Daily   </string>
+    <string name="dine_pike_price">$$</string>
+    <string name="dine_cup_name">Cupcake Royale</string>
+    <string name="dine_cup_description">Seattle\'s first cupcake bakery, home to the best cupcakes and award-winning ice cream! Delivery and easy online ordering for parties, weddings and celebrations</string>
+    <string name="dine_cup_address">1111 E PIKE ST, SEATTLE, WA 98122</string>
+    <string name="dine_cup_phone">+1 (206)701-9579</string>
+    <string name="dine_cup_hours"> 8:00-22:00 Mon-Fri, 9:00-22:00 Sat-Sun</string>
+    <string name="dine_cup_price">$$</string>
+    <string name="dine_moon_name">Molly Moon\'s</string>
+    <string name="dine_moon_description">Homemade ice cream and fresh waffle cones, Unique seasonal flavors.</string>
+    <string name="dine_moon_address">917 E Pine St, Seattle WA 98122</string>
+    <string name="dine_moon_phone">+1 (206)708-7947</string>
+    <string name="dine_moon_hours"> 12:00-23:00 Daily</string>
+    <string name="dine_moon_price">$$</string>
+    <string name="dine_dicks_name">Dick\'s </string>
+    <string name="dine_dicks_description">Fresh ingredients on a classic never frozen hamburger, hand dipped shakes and fresh cut fries daily.</string>
+    <string name="dine_dicks_address">111 N.E. 45th St, Seattle, WA 98105</string>
+    <string name="dine_dicks_phone">+1(206)632-5125</string>
+    <string name="dine_dicks_hours"> 12:00-23:00 Daily</string>
+    <string name="dine_dicks_price">$$</string>
+    <string name="shop_uwaji_name">Uwajimaya</string>
+    <string name="shop_uwaji_description"> Asian specialty products and a variety of dines and shops to explore. Features Kinokuniya Bookstore and Beard Papa\'s Cream Puffs</string>
+    <string name="shop_uwaji_address">600 5th Avenue South, Seattle, WA 98104</string>
+    <string name="shop_uwaji_phone">+1 (206)624-6248</string>
+    <string name="shop_uwaji_hours">8:00-22:00 Mon-Sat, 9:00-21:00 Sun</string>
+    <string name="shop_pacific_name">Pacific Place</string>
+    <string name="shop_pacific_description"> Pacific Place is an upscale shopping center located in downtown Seattle, Washington</string>
+    <string name="shop_pacific_address"> 600 Pine St, Seattle, WA 98101</string>
+    <string name="shop_pacific_phone">+1 (206)405-2655</string>
+    <string name="shop_pacific_hours">10:00-21:00 Mon-Sat, 11:00-19:00 Sun</string>
+    <string name="shop_market_name">Pike Place Market</string>
+    <string name="shop_market_description"> Pike Place Market is a public market overlooking the Elliott Bay waterfront in Seattle, Washington, United States.
+        The Market opened August 17, 1907, and is one of the oldest continuously operated public farmers\' markets in the United States.</string>
+    <string name="shop_market_address">1st Ave and Pike St., Seattle, WA 98101</string>
+    <string name="shop_market_phone">+1 (206)405-2655</string>
+    <string name="shop_market_hours">9:00-17:00 Mon-Sat, 9:00-17:00 Sun</string>
+    <string name="sight_space_name">Space Needle </string>
+    <string name="sight_space_description"> The most notable piece of the iconic Seattle Skyline The Space Needle built in 1962, contains glass floors with an observation deck at 520 ft (160 m) and the rotating SkyCity restaurant at 500 ft  </string>
+    <string name="sight_space_address">400 Broad St, Seattle, WA 98109</string>
+    <string name="sight_space_phone">+1 (206)905-2100</string>
+    <string name="sight_space_hours">10:00-20:00 Mon-Sun></string>
+    <string name="sight_space_price">$24.50-$37.20</string>
+    <string name="sight_aqua_name">Seattle Aquarium </string>
+    <string name="sight_aqua_description">Originally opened in 1977 the Seattle Aquarium no owned by a non profit promote conservation of aquatic life forms. The Aquarium boasts an impressive 120,000-gallon exhibit, a gift shop, caf\é, and a meeting/event space.</string>
+    <string name="sight_aqua_address">1483 Alaskan Way, Seattle, WA 98101</string>
+    <string name="sight_aqua_phone">+1 (206)386-4300</string>
+    <string name="sight_aqua_hours">09:30-17:00 Daily</string>
+    <string name="sight_aqua_price">$19.95-$29.95, Children 3 and under Free</string>
+    <string name="sight_science_name">Pacific Science Center</string>
+    <string name="sight_science_description"> The Pacific Science Center began as the United States Science Pavilion during the 1962 Seattle World\'s Fair.
+        The center has award-winning, interactive programs reach more than 1.1 million people each year spreading the love of science. </string>
+    <string name="sight_science_address"> 200 Second Ave. North, Seattle, WA 98109 </string>
+    <string name="sight_science_phone">+1 (206)443-2001 </string>
+    <string name="sight_science_hours">10:00-17:00 Mon-Fri, 10:00-18:00 weekends and holidays.</string>
+    <string name="sight_science_price">$13.95-$23.95, Children 3 and under Free</string>
+    <string name="sight_miner_name">Miners Landing (Pier 57)</string>
+    <string name="sight_miner_description"> The historic pier  where in 1897 the steamship Portland with it\'s first load of gold from the Klondike docked.
+        Now known as Pier 57 the Miners Landing is a family-friendly spot with lots of shops, restaurants, and entertainment.</string>
+    <string name="sight_miner_address">1301 Alaskan Way, Seattle, WA 98109 </string>
+    <string name="sight_miner_phone">+1 (206)623-8600 </string>
+    <string name="sight_miner_hours">Hours varied</string>
+    <string name="museum_mopop_name">MoPop</string>
+    <string name="museum_mopop_description">The Museum of Pop Culture, or MoPOP is a nonprofit museum dedicated to contemporary popular culture. It was founded by Microsoft co-founder Paul Allen
+        in 2000 as the Experience Music Project.</string>
+    <string name="museum_mopop_address">325 5th Ave N, Seattle, WA 98109</string>
+    <string name="museum_mopop_phone">+1 206-770-2700</string>
+    <string name="museum_mopop_hours">10:00–17:00. Sun-Sat.</string>
+    <string name="museum_mopop_price">$17-$28, Children 4 and under Free</string>
+    <string name="museum_chi_name">Chihuly Garden and Glass</string>
+    <string name="museum_chi_description"> Chihuly Garden and Glass is an exhibit in the Seattle Center showcasing the studio glass of Dale Chihuly.
+        The exhibit opened in May 2012, it contains 3 main components :the Garden, the Glasshouse, and the Interior Exhibits, with significant secondary spaces including a caf\'e  </string>
+    <string name="museum_chi_address"> 305 Harrison St, Seattle, WA 98109</string>
+    <string name="museum_chi_phone">+1 (206)753-4929</string>
+    <string name="museum_chi_hours">-10:00–18:00 Sun-Thur. 10:00-19:00 Fri-Sat</string>
+    <string name="museum_chi_price">$17-$26, Children 4 and under Free</string>
+    <string name="museum_fly_name">Museum of Flight</string>
+    <string name="museum_fly_description">The Museum of Flight is a private non-profit air and space museum in the northwest United States.
+        Established in 1965 the museum is fully accredited by the American Alliance of Museums
+        it is known as the largest private air and space museum in the world</string>
+    <string name="museum_fly_address">9404 E Marginal Way S, Seattle, WA 98108</string>
+    <string name="museum_fly_phone">+1 (206)764-5700</string>
+    <string name="museum_fly_hours">10:00–16:00 Sun-Sat</string>
+    <string name="museum_fly_price">$8-$13</string>
+    <string name="museum_art_name">Seattle Art Museum</string>
+    <string name="museum_art_description"> Established in 1933 the Seattle Art Museum has three facilities: the main museum in downtown Seattle; the Seattle Asian Art Museum (SAAM) in Volunteer Park on Capitol Hill,
+        and the open Olympic Sculpture Park on the central Seattle waterfront, which opened on January 20, 2007.
+        The SAM collection has grown from 1,926 pieces in 1933 to nearly 25,000 as of 2008.</string>
+    <string name="museum_art_address">1300 1st Ave, Seattle, WA 98101</string>
+    <string name="museum_art_phone">+1 (206)753-4929</string>
+    <string name="museum_art_hours">10:00–17:00 Wed,Fri-Sun.10:00-21:00 Thur. Closed Mon-Tue></string>
+    <string name="museum_art_price">$14.95-$24.95, Children 12 and under Free</string>
+</resources>
